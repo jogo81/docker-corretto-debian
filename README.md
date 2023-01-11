@@ -1,6 +1,6 @@
 # docker-corretto-debian
 
-Just a Dockerfile to build an image of Amazon Corretto based on Debian Linux.
+A simple Dockerfile to build an image of Amazon Corretto based on Debian Linux.
 
 Check out the [Docker Repository](https://hub.docker.com/r/jogo81/corretto-debian)
 
